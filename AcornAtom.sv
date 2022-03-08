@@ -332,7 +332,7 @@ hps_io #(.CONF_STR(CONF_STR)) hps_io
 	.img_size(img_size),
 
 	.joystick_0(joy1),
-	.joystick_1(joy2),
+	.joystick_1(joy2)
 );
 
 /////////////////  RESET  /////////////////////////
